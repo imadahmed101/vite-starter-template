@@ -1,0 +1,2 @@
+# Vite Scaffolding for General Website Building
+This project is a scaffolding of a vite, react-router, and tailwindcss bundled app together. This template provides a minimal setup to get everything functioning and ready for development.
